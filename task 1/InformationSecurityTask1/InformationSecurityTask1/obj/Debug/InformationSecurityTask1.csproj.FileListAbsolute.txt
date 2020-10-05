@@ -1,0 +1,7 @@
+C:\Users\fourn\source\repos\InformationSecurityTask1\InformationSecurityTask1\obj\Debug\InformationSecurityTask1.csprojAssemblyReference.cache
+C:\Users\fourn\source\repos\InformationSecurityTask1\InformationSecurityTask1\obj\Debug\InformationSecurityTask1.csproj.CoreCompileInputs.cache
+C:\Users\fourn\source\repos\InformationSecurityTask1\InformationSecurityTask1\bin\Debug\InformationSecurityTask1.exe.config
+C:\Users\fourn\source\repos\InformationSecurityTask1\InformationSecurityTask1\bin\Debug\InformationSecurityTask1.exe
+C:\Users\fourn\source\repos\InformationSecurityTask1\InformationSecurityTask1\bin\Debug\InformationSecurityTask1.pdb
+C:\Users\fourn\source\repos\InformationSecurityTask1\InformationSecurityTask1\obj\Debug\InformationSecurityTask1.exe
+C:\Users\fourn\source\repos\InformationSecurityTask1\InformationSecurityTask1\obj\Debug\InformationSecurityTask1.pdb
